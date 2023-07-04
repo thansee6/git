@@ -4,9 +4,9 @@ ho ware u
 tomorrow
 
 
-<<<<<<< HEAD
+HEAD
 not last
 =======
 
 last
->>>>>>> feature
+ 
